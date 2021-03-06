@@ -15,8 +15,6 @@ export class Application {
         ------------
         Server Started!
         Express: http://localhost:${port}
-        Swagger Docs: http://localhost:${port}/docs
-        Swagger Spec: http://localhost:${port}/api-docs
         ------------
       `);
     });
